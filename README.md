@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Graham-cpu
+- 👋 Hi, I’m @Graham-cpu I am an Electrical Engineer working on Large Scale Renewables, My secondary job is completing bespoke electrical / electronic projects for various people across the globe.
 - 👀 I’m interested in Arduino, Rasperry Pi, C++, Python
 - 🌱 I’m currently learning Computer Science and AI
 - 💞️ I’m looking to collaborate on any electronics or robotics Projects
